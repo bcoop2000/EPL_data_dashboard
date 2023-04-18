@@ -1,0 +1,659 @@
+player_id,player_name,team,birthday,position
+0,Daniel Adu-Adjei,AFC Bournemouth,2005-06-21,FW
+1,Jaidon Anthony,AFC Bournemouth,1999-12-01,FW
+2,Philip Billing,AFC Bournemouth,1996-06-11,MF
+3,David Brooks,AFC Bournemouth,1997-07-08,FW
+4,Ryan Christie,AFC Bournemouth,1995-02-22,MF
+5,Lewis Cook,AFC Bournemouth,1997-02-03,MF
+6,Siriki Dembélé,AFC Bournemouth,1996-09-07,FW
+7,Will Dennis,AFC Bournemouth,2000-07-10,GK
+8,Chris Francis,AFC Bournemouth,2002-11-15,DF
+9,Ryan Fredericks,AFC Bournemouth,1992-10-10,DF
+10,Ben Greenwood,AFC Bournemouth,2003-02-20,DF
+11,James Hill,AFC Bournemouth,2002-01-10,DF
+12,Lloyd Kelly,AFC Bournemouth,1998-10-06,DF
+13,Jefferson Lerma,AFC Bournemouth,1994-10-25,MF
+14,Jamal Lowe,AFC Bournemouth,1994-07-21,FW
+15,Emiliano Marcondes,AFC Bournemouth,1995-03-09,MF
+16,Chris Mepham,AFC Bournemouth,1997-11-05,DF
+17,Kieffer Moore,AFC Bournemouth,1992-08-08,FW
+18,Neto,AFC Bournemouth,1989-07-19,GK
+19,Ferdinand Okoh,AFC Bournemouth,2004-06-03,MF
+20,Ben Pearson,AFC Bournemouth,1995-01-04,MF
+21,Cameron Plain,AFC Bournemouth,2002-11-28,GK
+22,Joe Rothwell,AFC Bournemouth,1995-01-11,MF
+23,Dominic Sadi,AFC Bournemouth,2003-09-02,MF
+24,Marcos Senesi,AFC Bournemouth,1997-05-10,DF
+25,Adam Smith,AFC Bournemouth,1991-04-29,DF
+26,Dominic Solanke,AFC Bournemouth,1997-09-14,FW
+27,Jack Stacey,AFC Bournemouth,1996-04-06,DF
+28,Junior Stanislas,AFC Bournemouth,1989-11-26,MF
+29,Jack Stephens,AFC Bournemouth,1994-01-27,DF
+30,Marcus Tavernier,AFC Bournemouth,1999-03-22,MF
+31,Mark Travers,AFC Bournemouth,1999-05-18,GK
+32,Jack Wadham,AFC Bournemouth,2003-02-25,MF
+33,Jordan Zemura,AFC Bournemouth,1999-11-14,DF
+34,Nathan Butler-Oyedeji,Arsenal FC,2003-01-04,MF
+35,Cédric,Arsenal FC,1991-08-31,DF
+36,Catalin Cîrjan,Arsenal FC,2002-12-01,MF
+37,Amario Cozier-Duberry,Arsenal FC,2005-05-29,MF
+38,Khayon Edwards,Arsenal FC,2003-09-12,FW
+39,Mohamed Elneny,Arsenal FC,1992-07-11,MF
+40,Fábio Vieira,Arsenal FC,2000-05-30,MF
+41,Gabriel,Arsenal FC,1997-12-19,DF
+42,Gabriel Jesus,Arsenal FC,1997-04-03,FW
+43,Gabriel Martinelli,Arsenal FC,2001-06-18,FW
+44,Karl Hein,Arsenal FC,2002-04-13,GK
+45,James Hillson,Arsenal FC,2001-01-14,GK
+46,Rob Holding,Arsenal FC,1995-09-20,DF
+47,Bradley Ibrahim,Arsenal FC,2004-10-21,MF
+48,Albert Lokonga,Arsenal FC,1999-10-22,MF
+49,Marquinhos,Arsenal FC,2003-04-07,FW
+50,Reiss Nelson,Arsenal FC,1999-12-10,FW
+51,Eddie Nketiah,Arsenal FC,1999-05-30,FW
+52,Ethan Nwaneri,Arsenal FC,2007-03-21,MF
+53,Martin Ødegaard,Arsenal FC,1998-12-17,MF
+54,Thomas Partey,Arsenal FC,1993-06-13,MF
+55,Aaron Ramsdale,Arsenal FC,1998-05-14,GK
+56,Bukayo Saka,Arsenal FC,2001-09-05,MF
+57,William Saliba,Arsenal FC,2001-03-24,DF
+58,Matt Smith,Arsenal FC,2000-10-05,MF
+59,Emile Smith Rowe,Arsenal FC,2000-07-28,MF
+60,Lino Sousa,Arsenal FC,2005-01-19,DF
+61,Kieran Tierney,Arsenal FC,1997-06-05,DF
+62,Takehiro Tomiyasu,Arsenal FC,1998-11-05,DF
+63,Matt Turner,Arsenal FC,1994-06-24,GK
+64,Ben White,Arsenal FC,1997-10-08,DF
+65,Granit Xhaka,Arsenal FC,1992-09-27,MF
+66,Oleksandr Zinchenko,Arsenal FC,1996-12-15,DF
+67,Cameron Archer,Aston Villa,2001-12-09,FW
+68,Ludwig Augustinsson,Aston Villa,1994-04-21,DF
+69,Leon Bailey,Aston Villa,1997-08-09,MF
+70,Jan Bednarek,Aston Villa,1996-04-12,DF
+71,Lamare Bogarde,Aston Villa,2004-01-05,DF
+72,Emiliano Buendia,Aston Villa,1996-12-25,MF
+73,Matty Cash,Aston Villa,1997-08-07,DF
+74,Calum Chambers,Aston Villa,1995-01-20,DF
+75,Coutinho,Aston Villa,1992-06-12,MF
+76,Leander Dendoncker,Aston Villa,1995-04-15,MF
+77,Diego Carlos,Aston Villa,1993-03-15,DF
+78,Lucas Digne,Aston Villa,1993-07-20,DF
+79,Douglas Luiz,Aston Villa,1998-05-09,MF
+80,Josh Feeney,Aston Villa,2005-05-06,DF
+81,Frédéric Guilbert,Aston Villa,1994-12-24,DF
+82,Danny Ings,Aston Villa,1992-07-23,FW
+83,Boubacar Kamara,Aston Villa,1999-11-23,MF
+84,Ezri Konsa,Aston Villa,1997-10-23,DF
+85,Filip Marschall,Aston Villa,2003-04-24,GK
+86,Emiliano Martínez,Aston Villa,1992-09-02,GK
+87,John McGinn,Aston Villa,1994-10-18,MF
+88,Tyrone Mings,Aston Villa,1993-03-13,DF
+89,Marvelous Nakamba,Aston Villa,1994-01-19,MF
+90,Robin Olsen,Aston Villa,1990-01-08,GK
+91,Jacob Ramsey,Aston Villa,2001-05-28,MF
+92,Morgan Sanson,Aston Villa,1994-08-18,MF
+93,Jed Steer,Aston Villa,1992-09-23,GK
+94,Ollie Watkins,Aston Villa,1995-12-30,FW
+95,Ashley Young,Aston Villa,1985-07-09,DF
+96,Kadan Young,Aston Villa,2006-01-19,MF
+97,Kristoffer Ajer,Brentford FC,1998-04-17,DF
+98,Shandon Baptiste,Brentford FC,1998-04-08,MF
+99,Mads Bech Sørensen,Brentford FC,1999-01-07,DF
+100,Matthew Cox,Brentford FC,2003-05-02,GK
+101,Tristan Crama,Brentford FC,2001-11-08,MF
+102,Mikkel Damsgaard,Brentford FC,2000-07-03,MF
+103,Joshua Dasilva,Brentford FC,1998-10-23,MF
+104,David Raya,Brentford FC,1995-09-15,GK
+105,Saman Ghoddos,Brentford FC,1993-09-06,FW
+106,Alex Gilbert,Brentford FC,2001-12-28,FW
+107,Charlie Goode,Brentford FC,1995-08-03,DF
+108,Rico Henry,Brentford FC,1997-07-08,DF
+109,Aaron Hickey,Brentford FC,2002-06-10,DF
+110,Vitaly Janelt,Brentford FC,1998-05-10,MF
+111,Pontus Jansson,Brentford FC,1991-02-13,DF
+112,Mathias Jensen,Brentford FC,1996-01-01,MF
+113,Keane Lewis-Potter,Brentford FC,2001-02-22,FW
+114,Bryan Mbeumo,Brentford FC,1999-08-07,FW
+115,Ben Mee,Brentford FC,1989-09-21,DF
+116,Christian Nørgaard,Brentford FC,1994-03-10,MF
+117,Frank Onyeka,Brentford FC,1998-01-01,MF
+118,Ethan Pinnock,Brentford FC,1993-05-29,DF
+119,Mads Roerslev,Brentford FC,1999-06-24,DF
+120,Sergi Canós,Brentford FC,1997-02-02,FW
+121,Finley Stevens,Brentford FC,2003-04-10,DF
+122,Thomas Strakosha,Brentford FC,1995-03-19,GK
+123,Ivan Toney,Brentford FC,1996-03-16,FW
+124,Ryan Trevitt,Brentford FC,2003-03-12,MF
+125,Yoane Wissa,Brentford FC,1996-09-03,FW
+126,Yegor Yarmolyuk,Brentford FC,2004-03-01,MF
+127,Zanka,Brentford FC,1990-04-23,DF
+128,Facundo Buonanotte,Brighton & Hove Albion,2004-12-23,MF
+129,Moisés Caicedo,Brighton & Hove Albion,2001-11-02,MF
+130,Levi Colwill,Brighton & Hove Albion,2003-02-26,DF
+131,Lewis Dunk,Brighton & Hove Albion,1991-11-21,DF
+132,Julio Enciso,Brighton & Hove Albion,2004-01-23,FW
+133,Pervis Estupiñán,Brighton & Hove Albion,1998-01-21,DF
+134,Evan Ferguson,Brighton & Hove Albion,2004-10-19,FW
+135,James Furlong,Brighton & Hove Albion,2002-06-07,DF
+136,Billy Gilmour,Brighton & Hove Albion,2001-06-11,MF
+137,Pascal Groß,Brighton & Hove Albion,1991-06-15,MF
+138,Jack Hinchy,Brighton & Hove Albion,2003-01-30,MF
+139,Jack Hinshelwood,Brighton & Hove Albion,2005-04-11,MF
+140,Adam Lallana,Brighton & Hove Albion,1988-05-10,MF
+141,Tariq Lamptey,Brighton & Hove Albion,2000-09-30,DF
+142,Alexis Mac Allister,Brighton & Hove Albion,1998-12-24,MF
+143,Solly March,Brighton & Hove Albion,1994-07-20,MF
+144,Thomas McGill,Brighton & Hove Albion,2000-03-25,GK
+145,Kaoru Mitoma,Brighton & Hove Albion,1997-05-20,MF
+146,Jakub Moder,Brighton & Hove Albion,1999-04-07,MF
+147,Andrew Moran,Brighton & Hove Albion,2003-10-15,MF
+148,Odeluga Offiah,Brighton & Hove Albion,2002-10-26,DF
+149,Cameron Peupion,Brighton & Hove Albion,2002-09-23,MF
+150,Robert Sánchez,Brighton & Hove Albion,1997-11-18,GK
+151,Jeremy Sarmiento,Brighton & Hove Albion,2002-06-16,MF
+152,Jack Spong,Brighton & Hove Albion,2002-02-04,MF
+153,Jason Steele,Brighton & Hove Albion,1990-08-18,GK
+154,Leandro Trossard,Brighton & Hove Albion,1994-12-04,MF
+155,Antef Tsoungui,Brighton & Hove Albion,2002-12-30,DF
+156,Ed Turns,Brighton & Hove Albion,2002-10-18,DF
+157,Deniz Undav,Brighton & Hove Albion,1996-07-19,FW
+158,Jan Paul van Hecke,Brighton & Hove Albion,2000-06-08,DF
+159,Joël Veltman,Brighton & Hove Albion,1992-01-15,DF
+160,Adam Webster,Brighton & Hove Albion,1995-01-04,DF
+161,Danny Welbeck,Brighton & Hove Albion,1990-11-26,FW
+162,Pierre-Emerick Aubameyang,Chelsea FC,1989-06-18,FW
+163,Azpilicueta,Chelsea FC,1989-08-28,DF
+164,Marcus Bettinelli,Chelsea FC,1992-05-24,GK
+165,Armando Broja,Chelsea FC,2001-09-10,FW
+166,Trevoh Chalobah,Chelsea FC,1999-07-05,DF
+167,Ben Chilwell,Chelsea FC,1996-12-21,DF
+168,Carney Chukwuemeka,Chelsea FC,2003-10-20,MF
+169,Cucurella,Chelsea FC,1998-07-22,DF
+170,David Fofana,Chelsea FC,2002-12-22,FW
+171,Wesley Fofana,Chelsea FC,2000-12-17,DF
+172,Conor Gallagher,Chelsea FC,2000-02-06,MF
+173,Lewis Hall,Chelsea FC,2004-09-08,MF
+174,Kai Havertz,Chelsea FC,1999-06-11,FW
+175,Bashir Humphreys,Chelsea FC,2003-03-15,DF
+176,Omari Hutchinson,Chelsea FC,2003-10-29,MF
+177,Reece James,Chelsea FC,1999-12-08,DF
+178,Jorginho,Chelsea FC,1991-12-20,MF
+179,N'Golo Kanté,Chelsea FC,1991-03-29,MF
+180,Kepa,Chelsea FC,1994-10-03,GK
+181,Kalidou Koulibaly,Chelsea FC,1991-06-20,DF
+182,Mateo Kovacic,Chelsea FC,1994-05-06,MF
+183,Ruben Loftus-Cheek,Chelsea FC,1996-01-23,MF
+184,Edouard Mendy,Chelsea FC,1992-03-01,GK
+185,Mason Mount,Chelsea FC,1999-01-10,MF
+186,Christian Pulišic,Chelsea FC,1998-09-18,FW
+187,Gabriel Slonina,Chelsea FC,2004-05-15,GK
+188,Raheem Sterling,Chelsea FC,1994-12-08,FW
+189,Thiago Silva,Chelsea FC,1984-09-22,DF
+190,Denis Zakaria,Chelsea FC,1996-11-20,MF
+191,Hakim Ziyech,Chelsea FC,1993-03-19,FW
+192,Adler Nascimento,Crystal Palace,2004-11-25,FW
+193,Joachim Andersen,Crystal Palace,1996-05-31,DF
+194,Jordan Ayew,Crystal Palace,1991-09-11,FW
+195,Kofi Balmer,Crystal Palace,2000-09-19,DF
+196,Jack Butland,Crystal Palace,1993-03-10,GK
+197,Nathaniel Clyne,Crystal Palace,1991-04-05,DF
+198,Cheick Doucouré,Crystal Palace,2000-01-08,MF
+199,Malcolm Ebiowei,Crystal Palace,2003-09-04,MF
+200,Odsonne Édouard,Crystal Palace,1998-01-16,FW
+201,Eberechi Eze,Crystal Palace,1998-06-29,MF
+202,Nathan Ferguson,Crystal Palace,2000-10-06,DF
+203,Owen Goodman,Crystal Palace,2003-11-27,GK
+204,John-Kymani Gordon,Crystal Palace,2003-02-13,FW
+205,Guaita,Crystal Palace,1987-01-10,GK
+206,Marc Guéhi,Crystal Palace,2000-07-13,DF
+207,Will Hughes,Crystal Palace,1995-04-17,MF
+208,Sam Johnstone,Crystal Palace,1993-03-25,GK
+209,Jean-Philippe Mateta,Crystal Palace,1997-06-28,FW
+210,James McArthur,Crystal Palace,1987-10-07,MF
+211,Luka Milivojevic,Crystal Palace,1991-04-07,MF
+212,Tyrick Mitchell,Crystal Palace,1999-09-01,DF
+213,Michael Olise,Crystal Palace,2001-12-12,MF
+214,David Ozoh,Crystal Palace,2005-06-01,MF
+215,Killian Phillips,Crystal Palace,2002-03-30,MF
+216,Chris Richards,Crystal Palace,2000-03-28,DF
+217,Jaïro Riedewald,Crystal Palace,1996-09-09,MF
+218,Kaden Rodney,Crystal Palace,2004-10-07,MF
+219,Jeffrey Schlupp,Crystal Palace,1992-12-23,MF
+220,James Tomkins,Crystal Palace,1989-03-29,DF
+221,Joel Ward,Crystal Palace,1989-10-29,DF
+222,Jack Wells-Morrison,Crystal Palace,2004-02-18,MF
+223,Joe Whitworth,Crystal Palace,2004-02-29,GK
+224,Wilfried Zaha,Crystal Palace,1992-11-10,MF
+225,Asmir Begovic,Everton FC,1987-06-20,GK
+226,Dominic Calvert-Lewin,Everton FC,1997-03-16,FW
+227,Thomas Cannon,Everton FC,2002-12-28,FW
+228,Conor Coady,Everton FC,1993-02-25,DF
+229,Séamus Coleman,Everton FC,1988-10-11,DF
+230,Tom Davies,Everton FC,1998-06-30,MF
+231,Abdoulaye Doucouré,Everton FC,1993-01-01,MF
+232,James Garner,Everton FC,2001-03-13,MF
+233,Ben Godfrey,Everton FC,1998-01-15,DF
+234,Anthony Gordon,Everton FC,2001-02-24,FW
+235,Demarai Gray,Everton FC,1996-06-28,FW
+236,Idrissa Gueye,Everton FC,1989-09-26,MF
+237,Mason Holgate,Everton FC,1996-10-22,DF
+238,Alex Iwobi,Everton FC,1996-05-03,MF
+239,Kyle John,Everton FC,2001-02-13,DF
+240,Michael Keane,Everton FC,1993-01-11,DF
+241,Andy Lonergan,Everton FC,1983-10-19,GK
+242,Neal Maupay,Everton FC,1996-08-14,FW
+243,Dwight McNeil,Everton FC,1999-11-22,FW
+244,Stanley Mills,Everton FC,2003-10-25,MF
+245,Yerry Mina,Everton FC,1994-09-23,DF
+246,Vitaliy Mykolenko,Everton FC,1999-05-29,DF
+247,Amadou Onana,Everton FC,2001-08-16,MF
+248,Nathan Patterson,Everton FC,2001-10-16,DF
+249,Jordan Pickford,Everton FC,1994-03-07,GK
+250,Isaac Price,Everton FC,2003-09-26,MF
+251,Rúben Vinagre,Everton FC,1999-04-09,DF
+252,Ishé Samuels-Smith,Everton FC,2006-06-05,DF
+253,Ellis Simms,Everton FC,2001-01-05,FW
+254,James Tarkowski,Everton FC,1992-11-19,DF
+255,Andros Townsend,Everton FC,1991-07-16,FW
+256,Reece Welch,Everton FC,2003-09-19,DF
+257,Charlie Whitaker,Everton FC,2003-09-16,MF
+258,Terry Ablade,Fulham FC,2001-10-12,FW
+259,Tosin Adarabioyo,Fulham FC,1997-09-24,DF
+260,Andreas Pereira,Fulham FC,1996-01-01,MF
+261,Tom Cairney,Fulham FC,1991-01-20,MF
+262,Carlos Vinícius,Fulham FC,1995-03-25,FW
+263,Nathaniel Chalobah,Fulham FC,1994-12-12,MF
+264,Luciano D'Auria-Henry,Fulham FC,2002-11-11,DF
+265,Bobby Decordova-Reid,Fulham FC,1993-02-02,FW
+266,Issa Diop,Fulham FC,1997-01-09,DF
+267,Shane Duffy,Fulham FC,1992-01-01,DF
+268,Martial Godo,Fulham FC,2003-03-14,MF
+269,Luke Harris,Fulham FC,2005-04-03,MF
+270,Dan James,Fulham FC,1997-11-10,FW
+271,João Palhinha,Fulham FC,1995-07-09,MF
+272,Neeskens Kebano,Fulham FC,1992-03-10,FW
+273,Layvin Kurzawa,Fulham FC,1992-09-04,DF
+274,Bernd Leno,Fulham FC,1992-03-04,GK
+275,Kevin Mbabu,Fulham FC,1995-04-19,DF
+276,Connor McAvoy,Fulham FC,2002-02-16,DF
+277,Aleksandar Mitrovic,Fulham FC,1994-09-16,FW
+278,Ollie O'Neill,Fulham FC,2003-01-08,MF
+279,Josh Onomah,Fulham FC,1997-04-27,MF
+280,Adrion Pajaziti,Fulham FC,2002-11-16,MF
+281,Stefan Parkes,Fulham FC,2004-03-28,DF
+282,Tim Ream,Fulham FC,1987-10-05,DF
+283,Harrison Reed,Fulham FC,1995-01-27,MF
+284,Antonee Robinson,Fulham FC,1997-08-08,DF
+285,Charlie Robinson,Fulham FC,2004-09-19,DF
+286,Marek Rodák,Fulham FC,1996-12-13,GK
+287,Kristian Šekularac,Fulham FC,2003-12-07,MF
+288,Manor Solomon,Fulham FC,1999-07-24,FW
+289,Kenny Tete,Fulham FC,1995-10-09,DF
+290,Willian,Fulham FC,1988-08-09,FW
+291,Harry Wilson,Fulham FC,1997-03-22,FW
+292,Brenden Aaronson,Leeds United,2000-10-22,MF
+293,Tyler Adams,Leeds United,1999-02-14,MF
+294,Charlie Allen,Leeds United,2003-11-22,MF
+295,Luke Ayling,Leeds United,1991-08-25,DF
+296,Patrick Bamford,Leeds United,1993-09-05,FW
+297,Liam Cooper,Leeds United,1991-08-30,DF
+298,Stuart Dallas,Leeds United,1991-04-19,DF
+299,James Debayo,Leeds United,2005-07-11,DF
+300,Cody Drameh,Leeds United,2001-12-08,DF
+301,Adam Forshaw,Leeds United,1991-10-08,MF
+302,Joe Gelhardt,Leeds United,2002-05-04,FW
+303,Wilfried Gnonto,Leeds United,2003-11-05,FW
+304,Archie Gray,Leeds United,2006-03-12,MF
+305,Sam Greenwood,Leeds United,2002-01-26,FW
+306,Darko Gyabi,Leeds United,2004-02-18,MF
+307,Jack Harrison,Leeds United,1996-11-20,MF
+308,Leo Hjelde,Leeds United,2003-08-26,DF
+309,Joel,Leeds United,1990-06-17,GK
+310,Junior Firpo,Leeds United,1996-08-22,DF
+311,Kristoffer Klaesson,Leeds United,2000-11-27,GK
+312,Mateusz Klich,Leeds United,1990-06-13,MF
+313,Robin Koch,Leeds United,1996-07-17,DF
+314,Rasmus Kristensen,Leeds United,1997-07-11,DF
+315,Llorente,Leeds United,1993-08-16,DF
+316,Marc Roca,Leeds United,1996-11-26,MF
+317,Mateo Fernández,Leeds United,2003-10-19,FW
+318,Alfie McCalmont,Leeds United,2000-03-25,MF
+319,Illan Meslier,Leeds United,2000-03-02,GK
+320,Amari Miller,Leeds United,2002-11-04,FW
+321,Kris Moore,Leeds United,2003-11-13,DF
+322,Sonny Perkins,Leeds United,2004-02-10,MF
+323,Rodrigo,Leeds United,1991-03-06,FW
+324,Luis Sinisterra,Leeds United,1999-06-17,MF
+325,Joe Snowdon,Leeds United,2004-02-14,MF
+326,Pascal Struijk,Leeds United,1999-08-11,DF
+327,Crysencio Summerville,Leeds United,2001-10-30,MF
+328,Max Wöber,Leeds United,1998-02-04,DF
+329,Marc Albrighton,Leicester City,1989-11-18,MF
+330,Will Alves,Leicester City,2005-05-04,MF
+331,Daniel Amartey,Leicester City,1994-12-21,DF
+332,Ayoze Pérez,Leicester City,1993-07-29,FW
+333,Harvey Barnes,Leicester City,1997-12-09,MF
+334,Ryan Bertrand,Leicester City,1989-08-05,DF
+335,Sammy Braybrooke,Leicester City,2004-03-12,MF
+336,Lewis Brunt,Leicester City,2000-11-06,MF
+337,Timothy Castagne,Leicester City,1995-12-05,DF
+338,Patson Daka,Leicester City,1998-10-09,FW
+339,Kiernan Dewsbury-Hall,Leicester City,1998-09-06,MF
+340,Jonny Evans,Leicester City,1988-01-03,DF
+341,Wout Faes,Leicester City,1998-04-03,DF
+342,Kelechi Iheanacho,Leicester City,1996-10-03,FW
+343,Daniel Iversen,Leicester City,1997-07-19,GK
+344,James Justin,Leicester City,1998-02-23,DF
+345,James Maddison,Leicester City,1996-11-23,MF
+346,Kasey McAteer,Leicester City,2001-11-22,MF
+347,Nampalys Mendy,Leicester City,1992-06-23,MF
+348,Wilfred Ndidi,Leicester City,1996-12-16,MF
+349,Dennis Praet,Leicester City,1994-05-14,MF
+350,Ricardo Pereira,Leicester City,1993-10-06,DF
+351,Alex Smithies,Leicester City,1990-03-05,GK
+352,Boubakary Soumaré,Leicester City,1999-02-27,MF
+353,Çaglar Söyüncü,Leicester City,1996-05-23,DF
+354,Luke Thomas,Leicester City,2001-06-10,DF
+355,Youri Tielemans,Leicester City,1997-05-07,MF
+356,Jamie Vardy,Leicester City,1987-01-11,FW
+357,Jannik Vestergaard,Leicester City,1992-08-03,DF
+358,Danny Ward,Leicester City,1993-06-22,GK
+359,Joe Wormleighton,Leicester City,2003-12-30,MF
+360,Adrián,Liverpool FC,1987-01-03,GK
+361,Trent Alexander-Arnold,Liverpool FC,1998-10-07,DF
+362,Alisson,Liverpool FC,1992-10-02,GK
+363,Arthur,Liverpool FC,1996-08-12,MF
+364,Jake Cain,Liverpool FC,2001-09-02,MF
+365,Luke Chambers,Liverpool FC,2004-06-24,DF
+366,Bobby Clark,Liverpool FC,2005-02-07,MF
+367,Harvey Davies,Liverpool FC,2003-09-03,GK
+368,Luis Díaz,Liverpool FC,1997-01-13,FW
+369,Diogo Jota,Liverpool FC,1996-12-04,FW
+370,Ben Doak,Liverpool FC,2005-11-11,FW
+371,Harvey Elliott,Liverpool FC,2003-04-04,MF
+372,Fabinho,Liverpool FC,1993-10-23,MF
+373,Fabio Carvalho,Liverpool FC,2002-08-30,FW
+374,Melkamu Frauendorf,Liverpool FC,2004-01-12,FW
+375,Cody Gakpo,Liverpool FC,1999-05-07,FW
+376,Joe Gomez,Liverpool FC,1997-05-23,DF
+377,Jordan Henderson,Liverpool FC,1990-06-17,MF
+378,Curtis Jones,Liverpool FC,2001-01-30,MF
+379,Naby Keïta,Liverpool FC,1995-02-10,MF
+380,Caoimhín Kelleher,Liverpool FC,1998-11-23,GK
+381,Ibrahima Konaté,Liverpool FC,1999-05-25,DF
+382,Joel Matip,Liverpool FC,1991-08-08,DF
+383,James Milner,Liverpool FC,1986-01-04,MF
+384,Darwin Núñez,Liverpool FC,1999-06-24,FW
+385,Alex Oxlade-Chamberlain,Liverpool FC,1993-08-15,MF
+386,Nathaniel Phillips,Liverpool FC,1997-03-21,DF
+387,Jarell Quansah,Liverpool FC,2003-01-29,DF
+388,Calvin Ramsay,Liverpool FC,2003-07-31,DF
+389,Roberto Firmino,Liverpool FC,1991-10-02,FW
+390,Andy Robertson,Liverpool FC,1994-03-11,DF
+391,Mo Salah,Liverpool FC,1992-06-15,FW
+392,Stefan Bajcetic,Liverpool FC,2004-10-22,DF
+393,Layton Stewart,Liverpool FC,2002-09-03,FW
+394,Thiago,Liverpool FC,1991-04-11,MF
+395,Kostas Tsimikas,Liverpool FC,1996-05-12,DF
+396,Virgil van Dijk,Liverpool FC,1991-07-08,DF
+397,Manuel Akanji,Manchester City,1995-07-19,DF
+398,Nathan Aké,Manchester City,1995-02-18,DF
+399,Julián Álvarez,Manchester City,2000-01-31,FW
+400,Bernardo Silva,Manchester City,1994-08-10,MF
+401,Scott Carson,Manchester City,1985-09-03,GK
+402,Kevin De Bruyne,Manchester City,1991-06-28,MF
+403,Ederson,Manchester City,1993-08-17,GK
+404,Phil Foden,Manchester City,2000-05-28,MF
+405,Jack Grealish,Manchester City,1995-09-10,MF
+406,Ilkay Gündogan,Manchester City,1990-10-24,MF
+407,Erling Haaland,Manchester City,2000-07-21,FW
+408,João Cancelo,Manchester City,1994-05-27,DF
+409,Ben Knight,Manchester City,2002-06-14,FW
+410,Aymeric Laporte,Manchester City,1994-05-27,DF
+411,Rico Lewis,Manchester City,2004-11-21,DF
+412,Riyad Mahrez,Manchester City,1991-02-21,FW
+413,Benjamin Mendy,Manchester City,1994-07-17,DF
+414,Stefan Ortega,Manchester City,1992-11-06,GK
+415,Cole Palmer,Manchester City,2002-05-06,MF
+416,Kalvin Phillips,Manchester City,1995-12-02,MF
+417,Alex Robertson,Manchester City,2003-04-17,MF
+418,Rodri,Manchester City,1996-06-22,MF
+419,Rúben Dias,Manchester City,1997-05-14,DF
+420,Sergio Gómez,Manchester City,2000-09-04,DF
+421,John Stones,Manchester City,1994-05-28,DF
+422,Kyle Walker,Manchester City,1990-05-28,DF
+423,Josh Wilson-Esbrand,Manchester City,2002-12-26,DF
+424,Antony,Manchester United,2000-02-24,FW
+425,Rhys Bennett,Manchester United,2003-10-30,DF
+426,Nathan Bishop,Manchester United,1999-10-15,GK
+427,Bruno Fernandes,Manchester United,1994-09-08,MF
+428,Casemiro,Manchester United,1992-02-23,MF
+429,De Gea,Manchester United,1990-11-07,GK
+430,Diogo Dalot,Manchester United,1999-03-18,DF
+431,Anthony Elanga,Manchester United,2002-04-27,FW
+432,Christian Eriksen,Manchester United,1992-02-14,MF
+433,Fred,Manchester United,1993-03-05,MF
+434,Tyler Fredricson,Manchester United,2005-02-23,DF
+435,Alejandro Garnacho,Manchester United,2004-07-01,FW
+436,Mason Greenwood,Manchester United,2001-10-01,FW
+437,Tom Heaton,Manchester United,1986-04-15,GK
+438,Zidane Iqbal,Manchester United,2003-04-27,MF
+439,Phil Jones,Manchester United,1992-02-21,DF
+440,Victor Lindelöf,Manchester United,1994-07-17,DF
+441,Harry Maguire,Manchester United,1993-03-05,DF
+442,Kobbie Mainoo,Manchester United,2005-04-19,MF
+443,Tyrell Malacia,Manchester United,1999-08-17,DF
+444,Anthony Martial,Manchester United,1995-12-05,FW
+445,Lisandro Martínez,Manchester United,1998-01-18,DF
+446,Charlie McNeill,Manchester United,2003-09-09,FW
+447,Scott McTominay,Manchester United,1996-12-08,MF
+448,Teden Mengi,Manchester United,2002-04-30,DF
+449,Facundo Pellistri,Manchester United,2001-12-20,MF
+450,Marcus Rashford,Manchester United,1997-10-31,FW
+451,Jadon Sancho,Manchester United,2000-03-25,FW
+452,Luke Shaw,Manchester United,1995-07-12,DF
+453,Shola Shoretire,Manchester United,2004-02-02,FW
+454,Axel Tuanzebe,Manchester United,1997-11-14,DF
+455,Donny van de Beek,Manchester United,1997-04-18,MF
+456,Raphaël Varane,Manchester United,1993-04-25,DF
+457,Radek Vítek,Manchester United,2003-10-24,GK
+458,Aaron Wan-Bissaka,Manchester United,1997-11-26,DF
+459,Brandon Williams,Manchester United,2000-09-03,DF
+460,Miguel Almirón,Newcastle United,1994-02-10,MF
+461,Elliot Anderson,Newcastle United,2002-11-06,MF
+462,Sven Botman,Newcastle United,2000-01-12,DF
+463,Bruno Guimarães,Newcastle United,1997-11-16,MF
+464,Dan Burn,Newcastle United,1992-05-09,DF
+465,Karl Darlow,Newcastle United,1990-10-08,GK
+466,Martin Dúbravka,Newcastle United,1989-01-15,GK
+467,Paul Dummett,Newcastle United,1991-09-26,DF
+468,Ryan Fraser,Newcastle United,1994-02-24,FW
+469,Mark Gillespie,Newcastle United,1992-03-27,GK
+470,Alexander Isak,Newcastle United,1999-09-21,FW
+471,Joelinton,Newcastle United,1996-08-14,MF
+472,Emil Krafth,Newcastle United,1994-08-02,DF
+473,Garang Kuol,Newcastle United,2004-09-15,FW
+474,Jamaal Lascelles,Newcastle United,1993-11-11,DF
+475,Jamal Lewis,Newcastle United,1998-01-25,DF
+476,Matthew Longstaff,Newcastle United,2000-03-21,MF
+477,Sean Longstaff,Newcastle United,1997-10-30,MF
+478,Manquillo,Newcastle United,1994-05-05,DF
+479,Jacob Murphy,Newcastle United,1995-02-24,MF
+480,Nick Pope,Newcastle United,1992-04-19,GK
+481,Matt Ritchie,Newcastle United,1989-09-10,DF
+482,Allan Saint-Maximin,Newcastle United,1997-03-12,FW
+483,Fabian Schär,Newcastle United,1991-12-20,DF
+484,Jonjo Shelvey,Newcastle United,1992-02-27,MF
+485,Matt Targett,Newcastle United,1995-09-18,DF
+486,Kieran Trippier,Newcastle United,1990-09-19,DF
+487,Kell Watts,Newcastle United,1999-11-03,DF
+488,Joe Willock,Newcastle United,1999-08-20,MF
+489,Callum Wilson,Newcastle United,1992-02-27,FW
+490,Chris Wood,Newcastle United,1991-12-07,FW
+491,Zach Abbott,Nottingham Forest,2006-05-13,DF
+492,Brandon Aguilera,Nottingham Forest,2003-06-28,MF
+493,Harry Arter,Nottingham Forest,1989-12-28,MF
+494,Sèrge Aurier,Nottingham Forest,1992-12-24,DF
+495,Taiwo Awoniyi,Nottingham Forest,1997-08-12,FW
+496,Giulian Biancone,Nottingham Forest,2000-03-31,DF
+497,Willy Boly,Nottingham Forest,1991-02-03,DF
+498,Cafú,Nottingham Forest,1993-02-26,MF
+499,Jack Colback,Nottingham Forest,1989-10-24,MF
+500,Steve Cook,Nottingham Forest,1991-04-19,DF
+501,Emmanuel Dennis,Nottingham Forest,1997-11-15,FW
+502,Aaron Donnelly,Nottingham Forest,2003-06-08,DF
+503,Billy Fewster,Nottingham Forest,2003-07-31,MF
+504,Remo Freuler,Nottingham Forest,1992-04-15,MF
+505,Morgan Gibbs-White,Nottingham Forest,2000-01-27,MF
+506,Alex Gibson-Hammond,Nottingham Forest,2002-11-10,MF
+507,Gustavo Scarpa,Nottingham Forest,1994-01-05,MF
+508,Oliver Hammond,Nottingham Forest,2002-11-13,MF
+509,Dean Henderson,Nottingham Forest,1997-03-12,GK
+510,Wayne Hennessey,Nottingham Forest,1987-01-24,GK
+511,Brennan Johnson,Nottingham Forest,2001-05-23,FW
+512,Adnan Kanuric,Nottingham Forest,2000-08-08,GK
+513,Cheikhou Kouyaté,Nottingham Forest,1989-12-21,MF
+514,Jesse Lingard,Nottingham Forest,1992-12-15,MF
+515,Orel Mangala,Nottingham Forest,1998-03-18,MF
+516,Loïc Mbe Soh,Nottingham Forest,2001-06-13,DF
+517,Scott McKenna,Nottingham Forest,1996-11-12,DF
+518,Moussa Niakhaté,Nottingham Forest,1996-03-08,DF
+519,Lewis O'Brien,Nottingham Forest,1998-10-14,MF
+520,Renan Lodi,Nottingham Forest,1998-04-08,DF
+521,Omar Richards,Nottingham Forest,1998-02-15,DF
+522,Jordan Smith,Nottingham Forest,1994-12-08,GK
+523,Sam Surridge,Nottingham Forest,1998-07-28,FW
+524,Dale Taylor,Nottingham Forest,2003-12-12,FW
+525,Lyle Taylor,Nottingham Forest,1990-03-29,FW
+526,Harry Toffolo,Nottingham Forest,1995-08-19,DF
+527,Neco Williams,Nottingham Forest,2001-04-13,DF
+528,Joe Worrall,Nottingham Forest,1997-01-10,DF
+529,Ryan Yates,Nottingham Forest,1997-11-21,MF
+530,Ché Adams,Southampton FC,1996-07-13,FW
+531,Joe Aribo,Southampton FC,1996-07-21,MF
+532,Adam Armstrong,Southampton FC,1997-02-10,FW
+533,Stuart Armstrong,Southampton FC,1992-03-30,MF
+534,Dominic Ballard,Southampton FC,2005-04-01,FW
+535,Gavin Bazunu,Southampton FC,2002-02-20,GK
+536,Armel Bella-Kotchap,Southampton FC,2001-12-11,DF
+537,Willy Caballero,Southampton FC,1981-09-28,GK
+538,Duje Caleta-Car,Southampton FC,1996-09-17,DF
+539,Ibrahima Diallo,Southampton FC,1999-03-08,MF
+540,Moussa Djénépo,Southampton FC,1998-06-15,MF
+541,Samuel Edozie,Southampton FC,2003-01-28,MF
+542,Diamond Edwards,Southampton FC,2003-09-18,MF
+543,Mohamed Elyounoussi,Southampton FC,1994-08-04,FW
+544,Ryan Finnigan,Southampton FC,2003-09-23,MF
+545,Juan Larios,Southampton FC,2004-01-12,DF
+546,Roméo Lavia,Southampton FC,2004-01-06,MF
+547,Nico Lawrence,Southampton FC,2003-11-22,DF
+548,Tino Livramento,Southampton FC,2002-11-12,DF
+549,Lyanco,Southampton FC,1997-02-01,DF
+550,Ainsley Maitland-Niles,Southampton FC,1997-08-29,MF
+551,Sékou Mara,Southampton FC,2002-07-30,FW
+552,Alex McCarthy,Southampton FC,1989-12-03,GK
+553,Jimmy Morgan,Southampton FC,2006-01-21,FW
+554,Dan N'Lundulu,Southampton FC,1999-02-05,FW
+555,Lewis Payne,Southampton FC,2004-05-30,DF
+556,Romain Perraud,Southampton FC,1997-09-22,DF
+557,Mohammed Salisu,Southampton FC,1999-04-17,DF
+558,Theo Walcott,Southampton FC,1989-03-16,FW
+559,Kyle Walker-Peters,Southampton FC,1997-04-13,DF
+560,James Ward-Prowse,Southampton FC,1994-11-01,MF
+561,Brandon Austin,Tottenham Hotspur,1999-01-08,GK
+562,Rodrigo Bentancur,Tottenham Hotspur,1997-06-25,MF
+563,Yves Bissouma,Tottenham Hotspur,1996-08-30,MF
+564,Bryan Gil,Tottenham Hotspur,2001-02-11,MF
+565,Ben Davies,Tottenham Hotspur,1993-04-24,DF
+566,Eric Dier,Tottenham Hotspur,1994-01-15,DF
+567,Matt Doherty,Tottenham Hotspur,1992-01-16,DF
+568,Emerson Royal,Tottenham Hotspur,1999-01-14,DF
+569,Fraser Forster,Tottenham Hotspur,1988-03-17,GK
+570,Pierre-Emile Højbjerg,Tottenham Hotspur,1995-08-05,MF
+571,Harry Kane,Tottenham Hotspur,1993-07-28,FW
+572,Dejan Kulusevski,Tottenham Hotspur,2000-04-25,FW
+573,Clément Lenglet,Tottenham Hotspur,1995-06-17,DF
+574,Hugo Lloris,Tottenham Hotspur,1986-12-26,GK
+575,Lucas Moura,Tottenham Hotspur,1992-08-13,FW
+576,Ivan Perišic,Tottenham Hotspur,1989-02-02,MF
+577,Richarlison,Tottenham Hotspur,1997-05-10,FW
+578,Cristian Romero,Tottenham Hotspur,1998-04-27,DF
+579,Davinson Sánchez,Tottenham Hotspur,1996-06-12,DF
+580,Pape Sarr,Tottenham Hotspur,2002-09-14,MF
+581,Ryan Sessegnon,Tottenham Hotspur,2000-05-18,MF
+582,Oliver Skipp,Tottenham Hotspur,2000-09-16,MF
+583,Heung-min Son,Tottenham Hotspur,1992-07-08,FW
+584,Djed Spence,Tottenham Hotspur,2000-08-09,DF
+585,Japhet Tanganga,Tottenham Hotspur,1999-03-31,DF
+586,Harvey White,Tottenham Hotspur,2001-09-19,MF
+587,Alfie Whiteman,Tottenham Hotspur,1998-10-02,GK
+588,Nayef Aguerd,West Ham United,1996-03-30,DF
+589,Michail Antonio,West Ham United,1990-03-28,FW
+590,Keenan Appiah-Forson,West Ham United,2001-10-16,MF
+591,Alphonse Aréola,West Ham United,1993-02-27,GK
+592,Harrison Ashby,West Ham United,2001-11-14,DF
+593,Jamal Baptiste,West Ham United,2003-11-11,DF
+594,Saïd Benrahma,West Ham United,1995-08-10,FW
+595,Jarrod Bowen,West Ham United,1996-12-20,FW
+596,Kaelan Casey,West Ham United,2004-10-28,MF
+597,Regan Clayton,West Ham United,2004-11-11,DF
+598,Maxwel Cornet,West Ham United,1996-09-27,MF
+599,Vladimír Coufal,West Ham United,1992-08-22,DF
+600,Conor Coventry,West Ham United,2000-03-25,MF
+601,Aaron Cresswell,West Ham United,1989-12-15,DF
+602,Craig Dawson,West Ham United,1990-05-06,DF
+603,Flynn Downes,West Ham United,1999-01-20,MF
+604,Pierre Ekwah Elimby,West Ham United,2002-01-15,DF
+605,Emerson,West Ham United,1994-08-03,DF
+606,Lukasz Fabianski,West Ham United,1985-04-18,GK
+607,Michael Forbes,West Ham United,2004-04-29,DF
+608,Krisztián Hegyi,West Ham United,2002-09-24,GK
+609,Ben Johnson,West Ham United,2000-01-24,DF
+610,Thilo Kehrer,West Ham United,1996-09-21,DF
+611,Manuel Lanzini,West Ham United,1993-02-15,MF
+612,Lucas Paquetá,West Ham United,1997-08-27,MF
+613,Luizão,West Ham United,2002-03-08,DF
+614,Divin Mubama,West Ham United,2004-10-25,FW
+615,Angelo Ogbonna,West Ham United,1988-05-23,DF
+616,Lewis Orford,West Ham United,2006-02-18,MF
+617,Pablo Fornals,West Ham United,1996-02-22,MF
+618,Freddie Potts,West Ham United,2003-09-12,MF
+619,Darren Randolph,West Ham United,1987-05-12,GK
+620,Declan Rice,West Ham United,1999-01-14,MF
+621,Gianluca Scamacca,West Ham United,1999-01-01,FW
+622,Oliver Scarles,West Ham United,2005-12-12,MF
+623,Kamarai Simon-Swyer,West Ham United,2002-12-04,MF
+624,Tomáš Soucek,West Ham United,1995-02-27,MF
+625,Kurt Zouma,West Ham United,1994-10-27,DF
+626,Adama Traoré,Wolverhampton Wanderers,1996-01-25,FW
+627,Rayan Aït Nouri,Wolverhampton Wanderers,2001-06-06,DF
+628,Chem Campbell,Wolverhampton Wanderers,2002-12-30,MF
+629,Chiquinho,Wolverhampton Wanderers,2000-02-05,FW
+630,Nathan Collins,Wolverhampton Wanderers,2001-04-30,DF
+631,Daniel Podence,Wolverhampton Wanderers,1995-10-21,FW
+632,Diego Costa,Wolverhampton Wanderers,1988-10-07,FW
+633,Nathan Fraser,Wolverhampton Wanderers,2005-02-22,FW
+634,Gonçalo Guedes,Wolverhampton Wanderers,1996-11-29,FW
+635,Harvey Griffiths,Wolverhampton Wanderers,2003-09-22,MF
+636,Joe Hodge,Wolverhampton Wanderers,2002-09-14,MF
+637,Hugo Bueno,Wolverhampton Wanderers,2002-09-18,DF
+638,Hee-chan Hwang,Wolverhampton Wanderers,1996-01-26,FW
+639,Raúl Jiménez,Wolverhampton Wanderers,1991-05-05,FW
+640,João Moutinho,Wolverhampton Wanderers,1986-09-08,MF
+641,Jonny,Wolverhampton Wanderers,1994-03-03,DF
+642,José Sá,Wolverhampton Wanderers,1993-01-17,GK
+643,Saša Kalajdžic,Wolverhampton Wanderers,1997-07-07,FW
+644,Maximilian Kilman,Wolverhampton Wanderers,1997-05-23,DF
+645,Dexter Lembikisa,Wolverhampton Wanderers,2003-11-04,DF
+646,Matheus Cunha,Wolverhampton Wanderers,1999-05-27,FW
+647,Matheus Nunes,Wolverhampton Wanderers,1998-08-27,MF
+648,Yerson Mosquera,Wolverhampton Wanderers,2001-05-02,DF
+649,Louie Moulden,Wolverhampton Wanderers,2002-01-06,GK
+650,Nélson Semedo,Wolverhampton Wanderers,1993-11-16,DF
+651,Pedro Neto,Wolverhampton Wanderers,2000-03-09,FW
+652,Connor Ronan,Wolverhampton Wanderers,1998-03-06,MF
+653,Rúben Neves,Wolverhampton Wanderers,1997-03-13,MF
+654,Matija Šarkic,Wolverhampton Wanderers,1997-07-23,GK
+655,Jackson Smith,Wolverhampton Wanderers,2001-10-14,GK
+656,Toti,Wolverhampton Wanderers,1999-01-16,DF
+657,Boubacar Traoré,Wolverhampton Wanderers,2001-08-20,MF

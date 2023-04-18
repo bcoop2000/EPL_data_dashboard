@@ -1,0 +1,659 @@
+player_id	player_name	team	birthday	position
+0	Daniel Adu-Adjei	AFC Bournemouth	6/21/2005	FW
+1	Jaidon Anthony	AFC Bournemouth	12/1/1999	FW
+2	Philip Billing	AFC Bournemouth	6/11/1996	MF
+3	David Brooks	AFC Bournemouth	7/8/1997	FW
+4	Ryan Christie	AFC Bournemouth	2/22/1995	MF
+5	Lewis Cook	AFC Bournemouth	2/3/1997	MF
+6	Siriki Dembélé	AFC Bournemouth	9/7/1996	FW
+7	Will Dennis	AFC Bournemouth	7/10/2000	GK
+8	Chris Francis	AFC Bournemouth	11/15/2002	DF
+9	Ryan Fredericks	AFC Bournemouth	10/10/1992	DF
+10	Ben Greenwood	AFC Bournemouth	2/20/2003	DF
+11	James Hill	AFC Bournemouth	1/10/2002	DF
+12	Lloyd Kelly	AFC Bournemouth	10/6/1998	DF
+13	Jefferson Lerma	AFC Bournemouth	10/25/1994	MF
+14	Jamal Lowe	AFC Bournemouth	7/21/1994	FW
+15	Emiliano Marcondes	AFC Bournemouth	3/9/1995	MF
+16	Chris Mepham	AFC Bournemouth	11/5/1997	DF
+17	Kieffer Moore	AFC Bournemouth	8/8/1992	FW
+18	Neto	AFC Bournemouth	7/19/1989	GK
+19	Ferdinand Okoh	AFC Bournemouth	6/3/2004	MF
+20	Ben Pearson	AFC Bournemouth	1/4/1995	MF
+21	Cameron Plain	AFC Bournemouth	11/28/2002	GK
+22	Joe Rothwell	AFC Bournemouth	1/11/1995	MF
+23	Dominic Sadi	AFC Bournemouth	9/2/2003	MF
+24	Marcos Senesi	AFC Bournemouth	5/10/1997	DF
+25	Adam Smith	AFC Bournemouth	4/29/1991	DF
+26	Dominic Solanke	AFC Bournemouth	9/14/1997	FW
+27	Jack Stacey	AFC Bournemouth	4/6/1996	DF
+28	Junior Stanislas	AFC Bournemouth	11/26/1989	MF
+29	Jack Stephens	AFC Bournemouth	1/27/1994	DF
+30	Marcus Tavernier	AFC Bournemouth	3/22/1999	MF
+31	Mark Travers	AFC Bournemouth	5/18/1999	GK
+32	Jack Wadham	AFC Bournemouth	2/25/2003	MF
+33	Jordan Zemura	AFC Bournemouth	11/14/1999	DF
+34	Nathan Butler-Oyedeji	Arsenal FC	1/4/2003	MF
+35	Cédric	Arsenal FC	8/31/1991	DF
+36	Catalin Cîrjan	Arsenal FC	12/1/2002	MF
+37	Amario Cozier-Duberry	Arsenal FC	5/29/2005	MF
+38	Khayon Edwards	Arsenal FC	9/12/2003	FW
+39	Mohamed Elneny	Arsenal FC	7/11/1992	MF
+40	Fábio Vieira	Arsenal FC	5/30/2000	MF
+41	Gabriel	Arsenal FC	12/19/1997	DF
+42	Gabriel Jesus	Arsenal FC	4/3/1997	FW
+43	Gabriel Martinelli	Arsenal FC	6/18/2001	FW
+44	Karl Hein	Arsenal FC	4/13/2002	GK
+45	James Hillson	Arsenal FC	1/14/2001	GK
+46	Rob Holding	Arsenal FC	9/20/1995	DF
+47	Bradley Ibrahim	Arsenal FC	10/21/2004	MF
+48	Albert Lokonga	Arsenal FC	10/22/1999	MF
+49	Marquinhos	Arsenal FC	4/7/2003	FW
+50	Reiss Nelson	Arsenal FC	12/10/1999	FW
+51	Eddie Nketiah	Arsenal FC	5/30/1999	FW
+52	Ethan Nwaneri	Arsenal FC	3/21/2007	MF
+53	Martin Ødegaard	Arsenal FC	12/17/1998	MF
+54	Thomas Partey	Arsenal FC	6/13/1993	MF
+55	Aaron Ramsdale	Arsenal FC	5/14/1998	GK
+56	Bukayo Saka	Arsenal FC	9/5/2001	MF
+57	William Saliba	Arsenal FC	3/24/2001	DF
+58	Matt Smith	Arsenal FC	10/5/2000	MF
+59	Emile Smith Rowe	Arsenal FC	7/28/2000	MF
+60	Lino Sousa	Arsenal FC	1/19/2005	DF
+61	Kieran Tierney	Arsenal FC	6/5/1997	DF
+62	Takehiro Tomiyasu	Arsenal FC	11/5/1998	DF
+63	Matt Turner	Arsenal FC	6/24/1994	GK
+64	Ben White	Arsenal FC	10/8/1997	DF
+65	Granit Xhaka	Arsenal FC	9/27/1992	MF
+66	Oleksandr Zinchenko	Arsenal FC	12/15/1996	DF
+67	Cameron Archer	Aston Villa	12/9/2001	FW
+68	Ludwig Augustinsson	Aston Villa	4/21/1994	DF
+69	Leon Bailey	Aston Villa	8/9/1997	MF
+70	Jan Bednarek	Aston Villa	4/12/1996	DF
+71	Lamare Bogarde	Aston Villa	1/5/2004	DF
+72	Emiliano Buendia	Aston Villa	12/25/1996	MF
+73	Matty Cash	Aston Villa	8/7/1997	DF
+74	Calum Chambers	Aston Villa	1/20/1995	DF
+75	Coutinho	Aston Villa	6/12/1992	MF
+76	Leander Dendoncker	Aston Villa	4/15/1995	MF
+77	Diego Carlos	Aston Villa	3/15/1993	DF
+78	Lucas Digne	Aston Villa	7/20/1993	DF
+79	Douglas Luiz	Aston Villa	5/9/1998	MF
+80	Josh Feeney	Aston Villa	5/6/2005	DF
+81	Frédéric Guilbert	Aston Villa	12/24/1994	DF
+82	Danny Ings	Aston Villa	7/23/1992	FW
+83	Boubacar Kamara	Aston Villa	11/23/1999	MF
+84	Ezri Konsa	Aston Villa	10/23/1997	DF
+85	Filip Marschall	Aston Villa	4/24/2003	GK
+86	Emiliano Martínez	Aston Villa	9/2/1992	GK
+87	John McGinn	Aston Villa	10/18/1994	MF
+88	Tyrone Mings	Aston Villa	3/13/1993	DF
+89	Marvelous Nakamba	Aston Villa	1/19/1994	MF
+90	Robin Olsen	Aston Villa	1/8/1990	GK
+91	Jacob Ramsey	Aston Villa	5/28/2001	MF
+92	Morgan Sanson	Aston Villa	8/18/1994	MF
+93	Jed Steer	Aston Villa	9/23/1992	GK
+94	Ollie Watkins	Aston Villa	12/30/1995	FW
+95	Ashley Young	Aston Villa	7/9/1985	DF
+96	Kadan Young	Aston Villa	1/19/2006	MF
+97	Kristoffer Ajer	Brentford FC	4/17/1998	DF
+98	Shandon Baptiste	Brentford FC	4/8/1998	MF
+99	Mads Bech Sørensen	Brentford FC	1/7/1999	DF
+100	Matthew Cox	Brentford FC	5/2/2003	GK
+101	Tristan Crama	Brentford FC	11/8/2001	MF
+102	Mikkel Damsgaard	Brentford FC	7/3/2000	MF
+103	Joshua Dasilva	Brentford FC	10/23/1998	MF
+104	David Raya	Brentford FC	9/15/1995	GK
+105	Saman Ghoddos	Brentford FC	9/6/1993	FW
+106	Alex Gilbert	Brentford FC	12/28/2001	FW
+107	Charlie Goode	Brentford FC	8/3/1995	DF
+108	Rico Henry	Brentford FC	7/8/1997	DF
+109	Aaron Hickey	Brentford FC	6/10/2002	DF
+110	Vitaly Janelt	Brentford FC	5/10/1998	MF
+111	Pontus Jansson	Brentford FC	2/13/1991	DF
+112	Mathias Jensen	Brentford FC	1/1/1996	MF
+113	Keane Lewis-Potter	Brentford FC	2/22/2001	FW
+114	Bryan Mbeumo	Brentford FC	8/7/1999	FW
+115	Ben Mee	Brentford FC	9/21/1989	DF
+116	Christian Nørgaard	Brentford FC	3/10/1994	MF
+117	Frank Onyeka	Brentford FC	1/1/1998	MF
+118	Ethan Pinnock	Brentford FC	5/29/1993	DF
+119	Mads Roerslev	Brentford FC	6/24/1999	DF
+120	Sergi Canós	Brentford FC	2/2/1997	FW
+121	Finley Stevens	Brentford FC	4/10/2003	DF
+122	Thomas Strakosha	Brentford FC	3/19/1995	GK
+123	Ivan Toney	Brentford FC	3/16/1996	FW
+124	Ryan Trevitt	Brentford FC	3/12/2003	MF
+125	Yoane Wissa	Brentford FC	9/3/1996	FW
+126	Yegor Yarmolyuk	Brentford FC	3/1/2004	MF
+127	Zanka	Brentford FC	4/23/1990	DF
+128	Facundo Buonanotte	Brighton & Hove Albion	12/23/2004	MF
+129	Moisés Caicedo	Brighton & Hove Albion	11/2/2001	MF
+130	Levi Colwill	Brighton & Hove Albion	2/26/2003	DF
+131	Lewis Dunk	Brighton & Hove Albion	11/21/1991	DF
+132	Julio Enciso	Brighton & Hove Albion	1/23/2004	FW
+133	Pervis Estupiñán	Brighton & Hove Albion	1/21/1998	DF
+134	Evan Ferguson	Brighton & Hove Albion	10/19/2004	FW
+135	James Furlong	Brighton & Hove Albion	6/7/2002	DF
+136	Billy Gilmour	Brighton & Hove Albion	6/11/2001	MF
+137	Pascal Groß	Brighton & Hove Albion	6/15/1991	MF
+138	Jack Hinchy	Brighton & Hove Albion	1/30/2003	MF
+139	Jack Hinshelwood	Brighton & Hove Albion	4/11/2005	MF
+140	Adam Lallana	Brighton & Hove Albion	5/10/1988	MF
+141	Tariq Lamptey	Brighton & Hove Albion	9/30/2000	DF
+142	Alexis Mac Allister	Brighton & Hove Albion	12/24/1998	MF
+143	Solly March	Brighton & Hove Albion	7/20/1994	MF
+144	Thomas McGill	Brighton & Hove Albion	3/25/2000	GK
+145	Kaoru Mitoma	Brighton & Hove Albion	5/20/1997	MF
+146	Jakub Moder	Brighton & Hove Albion	4/7/1999	MF
+147	Andrew Moran	Brighton & Hove Albion	10/15/2003	MF
+148	Odeluga Offiah	Brighton & Hove Albion	10/26/2002	DF
+149	Cameron Peupion	Brighton & Hove Albion	9/23/2002	MF
+150	Robert Sánchez	Brighton & Hove Albion	11/18/1997	GK
+151	Jeremy Sarmiento	Brighton & Hove Albion	6/16/2002	MF
+152	Jack Spong	Brighton & Hove Albion	2/4/2002	MF
+153	Jason Steele	Brighton & Hove Albion	8/18/1990	GK
+154	Leandro Trossard	Brighton & Hove Albion	12/4/1994	MF
+155	Antef Tsoungui	Brighton & Hove Albion	12/30/2002	DF
+156	Ed Turns	Brighton & Hove Albion	10/18/2002	DF
+157	Deniz Undav	Brighton & Hove Albion	7/19/1996	FW
+158	Jan Paul van Hecke	Brighton & Hove Albion	6/8/2000	DF
+159	Joël Veltman	Brighton & Hove Albion	1/15/1992	DF
+160	Adam Webster	Brighton & Hove Albion	1/4/1995	DF
+161	Danny Welbeck	Brighton & Hove Albion	11/26/1990	FW
+162	Pierre-Emerick Aubameyang	Chelsea FC	6/18/1989	FW
+163	Azpilicueta	Chelsea FC	8/28/1989	DF
+164	Marcus Bettinelli	Chelsea FC	5/24/1992	GK
+165	Armando Broja	Chelsea FC	9/10/2001	FW
+166	Trevoh Chalobah	Chelsea FC	7/5/1999	DF
+167	Ben Chilwell	Chelsea FC	12/21/1996	DF
+168	Carney Chukwuemeka	Chelsea FC	10/20/2003	MF
+169	Cucurella	Chelsea FC	7/22/1998	DF
+170	David Fofana	Chelsea FC	12/22/2002	FW
+171	Wesley Fofana	Chelsea FC	12/17/2000	DF
+172	Conor Gallagher	Chelsea FC	2/6/2000	MF
+173	Lewis Hall	Chelsea FC	9/8/2004	MF
+174	Kai Havertz	Chelsea FC	6/11/1999	FW
+175	Bashir Humphreys	Chelsea FC	3/15/2003	DF
+176	Omari Hutchinson	Chelsea FC	10/29/2003	MF
+177	Reece James	Chelsea FC	12/8/1999	DF
+178	Jorginho	Chelsea FC	12/20/1991	MF
+179	N'Golo Kanté	Chelsea FC	3/29/1991	MF
+180	Kepa	Chelsea FC	10/3/1994	GK
+181	Kalidou Koulibaly	Chelsea FC	6/20/1991	DF
+182	Mateo Kovacic	Chelsea FC	5/6/1994	MF
+183	Ruben Loftus-Cheek	Chelsea FC	1/23/1996	MF
+184	Edouard Mendy	Chelsea FC	3/1/1992	GK
+185	Mason Mount	Chelsea FC	1/10/1999	MF
+186	Christian Pulišic	Chelsea FC	9/18/1998	FW
+187	Gabriel Slonina	Chelsea FC	5/15/2004	GK
+188	Raheem Sterling	Chelsea FC	12/8/1994	FW
+189	Thiago Silva	Chelsea FC	9/22/1984	DF
+190	Denis Zakaria	Chelsea FC	11/20/1996	MF
+191	Hakim Ziyech	Chelsea FC	3/19/1993	FW
+192	Adler Nascimento	Crystal Palace	11/25/2004	FW
+193	Joachim Andersen	Crystal Palace	5/31/1996	DF
+194	Jordan Ayew	Crystal Palace	9/11/1991	FW
+195	Kofi Balmer	Crystal Palace	9/19/2000	DF
+196	Jack Butland	Crystal Palace	3/10/1993	GK
+197	Nathaniel Clyne	Crystal Palace	4/5/1991	DF
+198	Cheick Doucouré	Crystal Palace	1/8/2000	MF
+199	Malcolm Ebiowei	Crystal Palace	9/4/2003	MF
+200	Odsonne Édouard	Crystal Palace	1/16/1998	FW
+201	Eberechi Eze	Crystal Palace	6/29/1998	MF
+202	Nathan Ferguson	Crystal Palace	10/6/2000	DF
+203	Owen Goodman	Crystal Palace	11/27/2003	GK
+204	John-Kymani Gordon	Crystal Palace	2/13/2003	FW
+205	Guaita	Crystal Palace	1/10/1987	GK
+206	Marc Guéhi	Crystal Palace	7/13/2000	DF
+207	Will Hughes	Crystal Palace	4/17/1995	MF
+208	Sam Johnstone	Crystal Palace	3/25/1993	GK
+209	Jean-Philippe Mateta	Crystal Palace	6/28/1997	FW
+210	James McArthur	Crystal Palace	10/7/1987	MF
+211	Luka Milivojevic	Crystal Palace	4/7/1991	MF
+212	Tyrick Mitchell	Crystal Palace	9/1/1999	DF
+213	Michael Olise	Crystal Palace	12/12/2001	MF
+214	David Ozoh	Crystal Palace	6/1/2005	MF
+215	Killian Phillips	Crystal Palace	3/30/2002	MF
+216	Chris Richards	Crystal Palace	3/28/2000	DF
+217	Jaïro Riedewald	Crystal Palace	9/9/1996	MF
+218	Kaden Rodney	Crystal Palace	10/7/2004	MF
+219	Jeffrey Schlupp	Crystal Palace	12/23/1992	MF
+220	James Tomkins	Crystal Palace	3/29/1989	DF
+221	Joel Ward	Crystal Palace	10/29/1989	DF
+222	Jack Wells-Morrison	Crystal Palace	2/18/2004	MF
+223	Joe Whitworth	Crystal Palace	2/29/2004	GK
+224	Wilfried Zaha	Crystal Palace	11/10/1992	MF
+225	Asmir Begovic	Everton FC	6/20/1987	GK
+226	Dominic Calvert-Lewin	Everton FC	3/16/1997	FW
+227	Thomas Cannon	Everton FC	12/28/2002	FW
+228	Conor Coady	Everton FC	2/25/1993	DF
+229	Séamus Coleman	Everton FC	10/11/1988	DF
+230	Tom Davies	Everton FC	6/30/1998	MF
+231	Abdoulaye Doucouré	Everton FC	1/1/1993	MF
+232	James Garner	Everton FC	3/13/2001	MF
+233	Ben Godfrey	Everton FC	1/15/1998	DF
+234	Anthony Gordon	Everton FC	2/24/2001	FW
+235	Demarai Gray	Everton FC	6/28/1996	FW
+236	Idrissa Gueye	Everton FC	9/26/1989	MF
+237	Mason Holgate	Everton FC	10/22/1996	DF
+238	Alex Iwobi	Everton FC	5/3/1996	MF
+239	Kyle John	Everton FC	2/13/2001	DF
+240	Michael Keane	Everton FC	1/11/1993	DF
+241	Andy Lonergan	Everton FC	10/19/1983	GK
+242	Neal Maupay	Everton FC	8/14/1996	FW
+243	Dwight McNeil	Everton FC	11/22/1999	FW
+244	Stanley Mills	Everton FC	10/25/2003	MF
+245	Yerry Mina	Everton FC	9/23/1994	DF
+246	Vitaliy Mykolenko	Everton FC	5/29/1999	DF
+247	Amadou Onana	Everton FC	8/16/2001	MF
+248	Nathan Patterson	Everton FC	10/16/2001	DF
+249	Jordan Pickford	Everton FC	3/7/1994	GK
+250	Isaac Price	Everton FC	9/26/2003	MF
+251	Rúben Vinagre	Everton FC	4/9/1999	DF
+252	Ishé Samuels-Smith	Everton FC	6/5/2006	DF
+253	Ellis Simms	Everton FC	1/5/2001	FW
+254	James Tarkowski	Everton FC	11/19/1992	DF
+255	Andros Townsend	Everton FC	7/16/1991	FW
+256	Reece Welch	Everton FC	9/19/2003	DF
+257	Charlie Whitaker	Everton FC	9/16/2003	MF
+258	Terry Ablade	Fulham FC	10/12/2001	FW
+259	Tosin Adarabioyo	Fulham FC	9/24/1997	DF
+260	Andreas Pereira	Fulham FC	1/1/1996	MF
+261	Tom Cairney	Fulham FC	1/20/1991	MF
+262	Carlos Vinícius	Fulham FC	3/25/1995	FW
+263	Nathaniel Chalobah	Fulham FC	12/12/1994	MF
+264	Luciano D'Auria-Henry	Fulham FC	11/11/2002	DF
+265	Bobby Decordova-Reid	Fulham FC	2/2/1993	FW
+266	Issa Diop	Fulham FC	1/9/1997	DF
+267	Shane Duffy	Fulham FC	1/1/1992	DF
+268	Martial Godo	Fulham FC	3/14/2003	MF
+269	Luke Harris	Fulham FC	4/3/2005	MF
+270	Dan James	Fulham FC	11/10/1997	FW
+271	João Palhinha	Fulham FC	7/9/1995	MF
+272	Neeskens Kebano	Fulham FC	3/10/1992	FW
+273	Layvin Kurzawa	Fulham FC	9/4/1992	DF
+274	Bernd Leno	Fulham FC	3/4/1992	GK
+275	Kevin Mbabu	Fulham FC	4/19/1995	DF
+276	Connor McAvoy	Fulham FC	2/16/2002	DF
+277	Aleksandar Mitrovic	Fulham FC	9/16/1994	FW
+278	Ollie O'Neill	Fulham FC	1/8/2003	MF
+279	Josh Onomah	Fulham FC	4/27/1997	MF
+280	Adrion Pajaziti	Fulham FC	11/16/2002	MF
+281	Stefan Parkes	Fulham FC	3/28/2004	DF
+282	Tim Ream	Fulham FC	10/5/1987	DF
+283	Harrison Reed	Fulham FC	1/27/1995	MF
+284	Antonee Robinson	Fulham FC	8/8/1997	DF
+285	Charlie Robinson	Fulham FC	9/19/2004	DF
+286	Marek Rodák	Fulham FC	12/13/1996	GK
+287	Kristian Šekularac	Fulham FC	12/7/2003	MF
+288	Manor Solomon	Fulham FC	7/24/1999	FW
+289	Kenny Tete	Fulham FC	10/9/1995	DF
+290	Willian	Fulham FC	8/9/1988	FW
+291	Harry Wilson	Fulham FC	3/22/1997	FW
+292	Brenden Aaronson	Leeds United	10/22/2000	MF
+293	Tyler Adams	Leeds United	2/14/1999	MF
+294	Charlie Allen	Leeds United	11/22/2003	MF
+295	Luke Ayling	Leeds United	8/25/1991	DF
+296	Patrick Bamford	Leeds United	9/5/1993	FW
+297	Liam Cooper	Leeds United	8/30/1991	DF
+298	Stuart Dallas	Leeds United	4/19/1991	DF
+299	James Debayo	Leeds United	7/11/2005	DF
+300	Cody Drameh	Leeds United	12/8/2001	DF
+301	Adam Forshaw	Leeds United	10/8/1991	MF
+302	Joe Gelhardt	Leeds United	5/4/2002	FW
+303	Wilfried Gnonto	Leeds United	11/5/2003	FW
+304	Archie Gray	Leeds United	3/12/2006	MF
+305	Sam Greenwood	Leeds United	1/26/2002	FW
+306	Darko Gyabi	Leeds United	2/18/2004	MF
+307	Jack Harrison	Leeds United	11/20/1996	MF
+308	Leo Hjelde	Leeds United	8/26/2003	DF
+309	Joel	Leeds United	6/17/1990	GK
+310	Junior Firpo	Leeds United	8/22/1996	DF
+311	Kristoffer Klaesson	Leeds United	11/27/2000	GK
+312	Mateusz Klich	Leeds United	6/13/1990	MF
+313	Robin Koch	Leeds United	7/17/1996	DF
+314	Rasmus Kristensen	Leeds United	7/11/1997	DF
+315	Llorente	Leeds United	8/16/1993	DF
+316	Marc Roca	Leeds United	11/26/1996	MF
+317	Mateo Fernández	Leeds United	10/19/2003	FW
+318	Alfie McCalmont	Leeds United	3/25/2000	MF
+319	Illan Meslier	Leeds United	3/2/2000	GK
+320	Amari Miller	Leeds United	11/4/2002	FW
+321	Kris Moore	Leeds United	11/13/2003	DF
+322	Sonny Perkins	Leeds United	2/10/2004	MF
+323	Rodrigo	Leeds United	3/6/1991	FW
+324	Luis Sinisterra	Leeds United	6/17/1999	MF
+325	Joe Snowdon	Leeds United	2/14/2004	MF
+326	Pascal Struijk	Leeds United	8/11/1999	DF
+327	Crysencio Summerville	Leeds United	10/30/2001	MF
+328	Max Wöber	Leeds United	2/4/1998	DF
+329	Marc Albrighton	Leicester City	11/18/1989	MF
+330	Will Alves	Leicester City	5/4/2005	MF
+331	Daniel Amartey	Leicester City	12/21/1994	DF
+332	Ayoze Pérez	Leicester City	7/29/1993	FW
+333	Harvey Barnes	Leicester City	12/9/1997	MF
+334	Ryan Bertrand	Leicester City	8/5/1989	DF
+335	Sammy Braybrooke	Leicester City	3/12/2004	MF
+336	Lewis Brunt	Leicester City	11/6/2000	MF
+337	Timothy Castagne	Leicester City	12/5/1995	DF
+338	Patson Daka	Leicester City	10/9/1998	FW
+339	Kiernan Dewsbury-Hall	Leicester City	9/6/1998	MF
+340	Jonny Evans	Leicester City	1/3/1988	DF
+341	Wout Faes	Leicester City	4/3/1998	DF
+342	Kelechi Iheanacho	Leicester City	10/3/1996	FW
+343	Daniel Iversen	Leicester City	7/19/1997	GK
+344	James Justin	Leicester City	2/23/1998	DF
+345	James Maddison	Leicester City	11/23/1996	MF
+346	Kasey McAteer	Leicester City	11/22/2001	MF
+347	Nampalys Mendy	Leicester City	6/23/1992	MF
+348	Wilfred Ndidi	Leicester City	12/16/1996	MF
+349	Dennis Praet	Leicester City	5/14/1994	MF
+350	Ricardo Pereira	Leicester City	10/6/1993	DF
+351	Alex Smithies	Leicester City	3/5/1990	GK
+352	Boubakary Soumaré	Leicester City	2/27/1999	MF
+353	Çaglar Söyüncü	Leicester City	5/23/1996	DF
+354	Luke Thomas	Leicester City	6/10/2001	DF
+355	Youri Tielemans	Leicester City	5/7/1997	MF
+356	Jamie Vardy	Leicester City	1/11/1987	FW
+357	Jannik Vestergaard	Leicester City	8/3/1992	DF
+358	Danny Ward	Leicester City	6/22/1993	GK
+359	Joe Wormleighton	Leicester City	12/30/2003	MF
+360	Adrián	Liverpool FC	1/3/1987	GK
+361	Trent Alexander-Arnold	Liverpool FC	10/7/1998	DF
+362	Alisson	Liverpool FC	10/2/1992	GK
+363	Arthur	Liverpool FC	8/12/1996	MF
+364	Jake Cain	Liverpool FC	9/2/2001	MF
+365	Luke Chambers	Liverpool FC	6/24/2004	DF
+366	Bobby Clark	Liverpool FC	2/7/2005	MF
+367	Harvey Davies	Liverpool FC	9/3/2003	GK
+368	Luis Díaz	Liverpool FC	1/13/1997	FW
+369	Diogo Jota	Liverpool FC	12/4/1996	FW
+370	Ben Doak	Liverpool FC	11/11/2005	FW
+371	Harvey Elliott	Liverpool FC	4/4/2003	MF
+372	Fabinho	Liverpool FC	10/23/1993	MF
+373	Fabio Carvalho	Liverpool FC	8/30/2002	FW
+374	Melkamu Frauendorf	Liverpool FC	1/12/2004	FW
+375	Cody Gakpo	Liverpool FC	5/7/1999	FW
+376	Joe Gomez	Liverpool FC	5/23/1997	DF
+377	Jordan Henderson	Liverpool FC	6/17/1990	MF
+378	Curtis Jones	Liverpool FC	1/30/2001	MF
+379	Naby Keïta	Liverpool FC	2/10/1995	MF
+380	Caoimhín Kelleher	Liverpool FC	11/23/1998	GK
+381	Ibrahima Konaté	Liverpool FC	5/25/1999	DF
+382	Joel Matip	Liverpool FC	8/8/1991	DF
+383	James Milner	Liverpool FC	1/4/1986	MF
+384	Darwin Núñez	Liverpool FC	6/24/1999	FW
+385	Alex Oxlade-Chamberlain	Liverpool FC	8/15/1993	MF
+386	Nathaniel Phillips	Liverpool FC	3/21/1997	DF
+387	Jarell Quansah	Liverpool FC	1/29/2003	DF
+388	Calvin Ramsay	Liverpool FC	7/31/2003	DF
+389	Roberto Firmino	Liverpool FC	10/2/1991	FW
+390	Andy Robertson	Liverpool FC	3/11/1994	DF
+391	Mo Salah	Liverpool FC	6/15/1992	FW
+392	Stefan Bajcetic	Liverpool FC	10/22/2004	DF
+393	Layton Stewart	Liverpool FC	9/3/2002	FW
+394	Thiago	Liverpool FC	4/11/1991	MF
+395	Kostas Tsimikas	Liverpool FC	5/12/1996	DF
+396	Virgil van Dijk	Liverpool FC	7/8/1991	DF
+397	Manuel Akanji	Manchester City	7/19/1995	DF
+398	Nathan Aké	Manchester City	2/18/1995	DF
+399	Julián Álvarez	Manchester City	1/31/2000	FW
+400	Bernardo Silva	Manchester City	8/10/1994	MF
+401	Scott Carson	Manchester City	9/3/1985	GK
+402	Kevin De Bruyne	Manchester City	6/28/1991	MF
+403	Ederson	Manchester City	8/17/1993	GK
+404	Phil Foden	Manchester City	5/28/2000	MF
+405	Jack Grealish	Manchester City	9/10/1995	MF
+406	Ilkay Gündogan	Manchester City	10/24/1990	MF
+407	Erling Haaland	Manchester City	7/21/2000	FW
+408	João Cancelo	Manchester City	5/27/1994	DF
+409	Ben Knight	Manchester City	6/14/2002	FW
+410	Aymeric Laporte	Manchester City	5/27/1994	DF
+411	Rico Lewis	Manchester City	11/21/2004	DF
+412	Riyad Mahrez	Manchester City	2/21/1991	FW
+413	Benjamin Mendy	Manchester City	7/17/1994	DF
+414	Stefan Ortega	Manchester City	11/6/1992	GK
+415	Cole Palmer	Manchester City	5/6/2002	MF
+416	Kalvin Phillips	Manchester City	12/2/1995	MF
+417	Alex Robertson	Manchester City	4/17/2003	MF
+418	Rodri	Manchester City	6/22/1996	MF
+419	Rúben Dias	Manchester City	5/14/1997	DF
+420	Sergio Gómez	Manchester City	9/4/2000	DF
+421	John Stones	Manchester City	5/28/1994	DF
+422	Kyle Walker	Manchester City	5/28/1990	DF
+423	Josh Wilson-Esbrand	Manchester City	12/26/2002	DF
+424	Antony	Manchester United	2/24/2000	FW
+425	Rhys Bennett	Manchester United	10/30/2003	DF
+426	Nathan Bishop	Manchester United	10/15/1999	GK
+427	Bruno Fernandes	Manchester United	9/8/1994	MF
+428	Casemiro	Manchester United	2/23/1992	MF
+429	De Gea	Manchester United	11/7/1990	GK
+430	Diogo Dalot	Manchester United	3/18/1999	DF
+431	Anthony Elanga	Manchester United	4/27/2002	FW
+432	Christian Eriksen	Manchester United	2/14/1992	MF
+433	Fred	Manchester United	3/5/1993	MF
+434	Tyler Fredricson	Manchester United	2/23/2005	DF
+435	Alejandro Garnacho	Manchester United	7/1/2004	FW
+436	Mason Greenwood	Manchester United	10/1/2001	FW
+437	Tom Heaton	Manchester United	4/15/1986	GK
+438	Zidane Iqbal	Manchester United	4/27/2003	MF
+439	Phil Jones	Manchester United	2/21/1992	DF
+440	Victor Lindelöf	Manchester United	7/17/1994	DF
+441	Harry Maguire	Manchester United	3/5/1993	DF
+442	Kobbie Mainoo	Manchester United	4/19/2005	MF
+443	Tyrell Malacia	Manchester United	8/17/1999	DF
+444	Anthony Martial	Manchester United	12/5/1995	FW
+445	Lisandro Martínez	Manchester United	1/18/1998	DF
+446	Charlie McNeill	Manchester United	9/9/2003	FW
+447	Scott McTominay	Manchester United	12/8/1996	MF
+448	Teden Mengi	Manchester United	4/30/2002	DF
+449	Facundo Pellistri	Manchester United	12/20/2001	MF
+450	Marcus Rashford	Manchester United	10/31/1997	FW
+451	Jadon Sancho	Manchester United	3/25/2000	FW
+452	Luke Shaw	Manchester United	7/12/1995	DF
+453	Shola Shoretire	Manchester United	2/2/2004	FW
+454	Axel Tuanzebe	Manchester United	11/14/1997	DF
+455	Donny van de Beek	Manchester United	4/18/1997	MF
+456	Raphaël Varane	Manchester United	4/25/1993	DF
+457	Radek Vítek	Manchester United	10/24/2003	GK
+458	Aaron Wan-Bissaka	Manchester United	11/26/1997	DF
+459	Brandon Williams	Manchester United	9/3/2000	DF
+460	Miguel Almirón	Newcastle United	2/10/1994	MF
+461	Elliot Anderson	Newcastle United	11/6/2002	MF
+462	Sven Botman	Newcastle United	1/12/2000	DF
+463	Bruno Guimarães	Newcastle United	11/16/1997	MF
+464	Dan Burn	Newcastle United	5/9/1992	DF
+465	Karl Darlow	Newcastle United	10/8/1990	GK
+466	Martin Dúbravka	Newcastle United	1/15/1989	GK
+467	Paul Dummett	Newcastle United	9/26/1991	DF
+468	Ryan Fraser	Newcastle United	2/24/1994	FW
+469	Mark Gillespie	Newcastle United	3/27/1992	GK
+470	Alexander Isak	Newcastle United	9/21/1999	FW
+471	Joelinton	Newcastle United	8/14/1996	MF
+472	Emil Krafth	Newcastle United	8/2/1994	DF
+473	Garang Kuol	Newcastle United	9/15/2004	FW
+474	Jamaal Lascelles	Newcastle United	11/11/1993	DF
+475	Jamal Lewis	Newcastle United	1/25/1998	DF
+476	Matthew Longstaff	Newcastle United	3/21/2000	MF
+477	Sean Longstaff	Newcastle United	10/30/1997	MF
+478	Manquillo	Newcastle United	5/5/1994	DF
+479	Jacob Murphy	Newcastle United	2/24/1995	MF
+480	Nick Pope	Newcastle United	4/19/1992	GK
+481	Matt Ritchie	Newcastle United	9/10/1989	DF
+482	Allan Saint-Maximin	Newcastle United	3/12/1997	FW
+483	Fabian Schär	Newcastle United	12/20/1991	DF
+484	Jonjo Shelvey	Newcastle United	2/27/1992	MF
+485	Matt Targett	Newcastle United	9/18/1995	DF
+486	Kieran Trippier	Newcastle United	9/19/1990	DF
+487	Kell Watts	Newcastle United	11/3/1999	DF
+488	Joe Willock	Newcastle United	8/20/1999	MF
+489	Callum Wilson	Newcastle United	2/27/1992	FW
+490	Chris Wood	Newcastle United	12/7/1991	FW
+491	Zach Abbott	Nottingham Forest	5/13/2006	DF
+492	Brandon Aguilera	Nottingham Forest	6/28/2003	MF
+493	Harry Arter	Nottingham Forest	12/28/1989	MF
+494	Sèrge Aurier	Nottingham Forest	12/24/1992	DF
+495	Taiwo Awoniyi	Nottingham Forest	8/12/1997	FW
+496	Giulian Biancone	Nottingham Forest	3/31/2000	DF
+497	Willy Boly	Nottingham Forest	2/3/1991	DF
+498	Cafú	Nottingham Forest	2/26/1993	MF
+499	Jack Colback	Nottingham Forest	10/24/1989	MF
+500	Steve Cook	Nottingham Forest	4/19/1991	DF
+501	Emmanuel Dennis	Nottingham Forest	11/15/1997	FW
+502	Aaron Donnelly	Nottingham Forest	6/8/2003	DF
+503	Billy Fewster	Nottingham Forest	7/31/2003	MF
+504	Remo Freuler	Nottingham Forest	4/15/1992	MF
+505	Morgan Gibbs-White	Nottingham Forest	1/27/2000	MF
+506	Alex Gibson-Hammond	Nottingham Forest	11/10/2002	MF
+507	Gustavo Scarpa	Nottingham Forest	1/5/1994	MF
+508	Oliver Hammond	Nottingham Forest	11/13/2002	MF
+509	Dean Henderson	Nottingham Forest	3/12/1997	GK
+510	Wayne Hennessey	Nottingham Forest	1/24/1987	GK
+511	Brennan Johnson	Nottingham Forest	5/23/2001	FW
+512	Adnan Kanuric	Nottingham Forest	8/8/2000	GK
+513	Cheikhou Kouyaté	Nottingham Forest	12/21/1989	MF
+514	Jesse Lingard	Nottingham Forest	12/15/1992	MF
+515	Orel Mangala	Nottingham Forest	3/18/1998	MF
+516	Loïc Mbe Soh	Nottingham Forest	6/13/2001	DF
+517	Scott McKenna	Nottingham Forest	11/12/1996	DF
+518	Moussa Niakhaté	Nottingham Forest	3/8/1996	DF
+519	Lewis O'Brien	Nottingham Forest	10/14/1998	MF
+520	Renan Lodi	Nottingham Forest	4/8/1998	DF
+521	Omar Richards	Nottingham Forest	2/15/1998	DF
+522	Jordan Smith	Nottingham Forest	12/8/1994	GK
+523	Sam Surridge	Nottingham Forest	7/28/1998	FW
+524	Dale Taylor	Nottingham Forest	12/12/2003	FW
+525	Lyle Taylor	Nottingham Forest	3/29/1990	FW
+526	Harry Toffolo	Nottingham Forest	8/19/1995	DF
+527	Neco Williams	Nottingham Forest	4/13/2001	DF
+528	Joe Worrall	Nottingham Forest	1/10/1997	DF
+529	Ryan Yates	Nottingham Forest	11/21/1997	MF
+530	Ché Adams	Southampton FC	7/13/1996	FW
+531	Joe Aribo	Southampton FC	7/21/1996	MF
+532	Adam Armstrong	Southampton FC	2/10/1997	FW
+533	Stuart Armstrong	Southampton FC	3/30/1992	MF
+534	Dominic Ballard	Southampton FC	4/1/2005	FW
+535	Gavin Bazunu	Southampton FC	2/20/2002	GK
+536	Armel Bella-Kotchap	Southampton FC	12/11/2001	DF
+537	Willy Caballero	Southampton FC	9/28/1981	GK
+538	Duje Caleta-Car	Southampton FC	9/17/1996	DF
+539	Ibrahima Diallo	Southampton FC	3/8/1999	MF
+540	Moussa Djénépo	Southampton FC	6/15/1998	MF
+541	Samuel Edozie	Southampton FC	1/28/2003	MF
+542	Diamond Edwards	Southampton FC	9/18/2003	MF
+543	Mohamed Elyounoussi	Southampton FC	8/4/1994	FW
+544	Ryan Finnigan	Southampton FC	9/23/2003	MF
+545	Juan Larios	Southampton FC	1/12/2004	DF
+546	Roméo Lavia	Southampton FC	1/6/2004	MF
+547	Nico Lawrence	Southampton FC	11/22/2003	DF
+548	Tino Livramento	Southampton FC	11/12/2002	DF
+549	Lyanco	Southampton FC	2/1/1997	DF
+550	Ainsley Maitland-Niles	Southampton FC	8/29/1997	MF
+551	Sékou Mara	Southampton FC	7/30/2002	FW
+552	Alex McCarthy	Southampton FC	12/3/1989	GK
+553	Jimmy Morgan	Southampton FC	1/21/2006	FW
+554	Dan N'Lundulu	Southampton FC	2/5/1999	FW
+555	Lewis Payne	Southampton FC	5/30/2004	DF
+556	Romain Perraud	Southampton FC	9/22/1997	DF
+557	Mohammed Salisu	Southampton FC	4/17/1999	DF
+558	Theo Walcott	Southampton FC	3/16/1989	FW
+559	Kyle Walker-Peters	Southampton FC	4/13/1997	DF
+560	James Ward-Prowse	Southampton FC	11/1/1994	MF
+561	Brandon Austin	Tottenham Hotspur	1/8/1999	GK
+562	Rodrigo Bentancur	Tottenham Hotspur	6/25/1997	MF
+563	Yves Bissouma	Tottenham Hotspur	8/30/1996	MF
+564	Bryan Gil	Tottenham Hotspur	2/11/2001	MF
+565	Ben Davies	Tottenham Hotspur	4/24/1993	DF
+566	Eric Dier	Tottenham Hotspur	1/15/1994	DF
+567	Matt Doherty	Tottenham Hotspur	1/16/1992	DF
+568	Emerson Royal	Tottenham Hotspur	1/14/1999	DF
+569	Fraser Forster	Tottenham Hotspur	3/17/1988	GK
+570	Pierre-Emile Højbjerg	Tottenham Hotspur	8/5/1995	MF
+571	Harry Kane	Tottenham Hotspur	7/28/1993	FW
+572	Dejan Kulusevski	Tottenham Hotspur	4/25/2000	FW
+573	Clément Lenglet	Tottenham Hotspur	6/17/1995	DF
+574	Hugo Lloris	Tottenham Hotspur	12/26/1986	GK
+575	Lucas Moura	Tottenham Hotspur	8/13/1992	FW
+576	Ivan Perišic	Tottenham Hotspur	2/2/1989	MF
+577	Richarlison	Tottenham Hotspur	5/10/1997	FW
+578	Cristian Romero	Tottenham Hotspur	4/27/1998	DF
+579	Davinson Sánchez	Tottenham Hotspur	6/12/1996	DF
+580	Pape Sarr	Tottenham Hotspur	9/14/2002	MF
+581	Ryan Sessegnon	Tottenham Hotspur	5/18/2000	MF
+582	Oliver Skipp	Tottenham Hotspur	9/16/2000	MF
+583	Heung-min Son	Tottenham Hotspur	7/8/1992	FW
+584	Djed Spence	Tottenham Hotspur	8/9/2000	DF
+585	Japhet Tanganga	Tottenham Hotspur	3/31/1999	DF
+586	Harvey White	Tottenham Hotspur	9/19/2001	MF
+587	Alfie Whiteman	Tottenham Hotspur	10/2/1998	GK
+588	Nayef Aguerd	West Ham United	3/30/1996	DF
+589	Michail Antonio	West Ham United	3/28/1990	FW
+590	Keenan Appiah-Forson	West Ham United	10/16/2001	MF
+591	Alphonse Aréola	West Ham United	2/27/1993	GK
+592	Harrison Ashby	West Ham United	11/14/2001	DF
+593	Jamal Baptiste	West Ham United	11/11/2003	DF
+594	Saïd Benrahma	West Ham United	8/10/1995	FW
+595	Jarrod Bowen	West Ham United	12/20/1996	FW
+596	Kaelan Casey	West Ham United	10/28/2004	MF
+597	Regan Clayton	West Ham United	11/11/2004	DF
+598	Maxwel Cornet	West Ham United	9/27/1996	MF
+599	Vladimír Coufal	West Ham United	8/22/1992	DF
+600	Conor Coventry	West Ham United	3/25/2000	MF
+601	Aaron Cresswell	West Ham United	12/15/1989	DF
+602	Craig Dawson	West Ham United	5/6/1990	DF
+603	Flynn Downes	West Ham United	1/20/1999	MF
+604	Pierre Ekwah Elimby	West Ham United	1/15/2002	DF
+605	Emerson	West Ham United	8/3/1994	DF
+606	Lukasz Fabianski	West Ham United	4/18/1985	GK
+607	Michael Forbes	West Ham United	4/29/2004	DF
+608	Krisztián Hegyi	West Ham United	9/24/2002	GK
+609	Ben Johnson	West Ham United	1/24/2000	DF
+610	Thilo Kehrer	West Ham United	9/21/1996	DF
+611	Manuel Lanzini	West Ham United	2/15/1993	MF
+612	Lucas Paquetá	West Ham United	8/27/1997	MF
+613	Luizão	West Ham United	3/8/2002	DF
+614	Divin Mubama	West Ham United	10/25/2004	FW
+615	Angelo Ogbonna	West Ham United	5/23/1988	DF
+616	Lewis Orford	West Ham United	2/18/2006	MF
+617	Pablo Fornals	West Ham United	2/22/1996	MF
+618	Freddie Potts	West Ham United	9/12/2003	MF
+619	Darren Randolph	West Ham United	5/12/1987	GK
+620	Declan Rice	West Ham United	1/14/1999	MF
+621	Gianluca Scamacca	West Ham United	1/1/1999	FW
+622	Oliver Scarles	West Ham United	12/12/2005	MF
+623	Kamarai Simon-Swyer	West Ham United	12/4/2002	MF
+624	Tomáš Soucek	West Ham United	2/27/1995	MF
+625	Kurt Zouma	West Ham United	10/27/1994	DF
+626	Adama Traoré	Wolverhampton Wanderers	1/25/1996	FW
+627	Rayan Aït Nouri	Wolverhampton Wanderers	6/6/2001	DF
+628	Chem Campbell	Wolverhampton Wanderers	12/30/2002	MF
+629	Chiquinho	Wolverhampton Wanderers	2/5/2000	FW
+630	Nathan Collins	Wolverhampton Wanderers	4/30/2001	DF
+631	Daniel Podence	Wolverhampton Wanderers	10/21/1995	FW
+632	Diego Costa	Wolverhampton Wanderers	10/7/1988	FW
+633	Nathan Fraser	Wolverhampton Wanderers	2/22/2005	FW
+634	Gonçalo Guedes	Wolverhampton Wanderers	11/29/1996	FW
+635	Harvey Griffiths	Wolverhampton Wanderers	9/22/2003	MF
+636	Joe Hodge	Wolverhampton Wanderers	9/14/2002	MF
+637	Hugo Bueno	Wolverhampton Wanderers	9/18/2002	DF
+638	Hee-chan Hwang	Wolverhampton Wanderers	1/26/1996	FW
+639	Raúl Jiménez	Wolverhampton Wanderers	5/5/1991	FW
+640	João Moutinho	Wolverhampton Wanderers	9/8/1986	MF
+641	Jonny	Wolverhampton Wanderers	3/3/1994	DF
+642	José Sá	Wolverhampton Wanderers	1/17/1993	GK
+643	Saša Kalajdžic	Wolverhampton Wanderers	7/7/1997	FW
+644	Maximilian Kilman	Wolverhampton Wanderers	5/23/1997	DF
+645	Dexter Lembikisa	Wolverhampton Wanderers	11/4/2003	DF
+646	Matheus Cunha	Wolverhampton Wanderers	5/27/1999	FW
+647	Matheus Nunes	Wolverhampton Wanderers	8/27/1998	MF
+648	Yerson Mosquera	Wolverhampton Wanderers	5/2/2001	DF
+649	Louie Moulden	Wolverhampton Wanderers	1/6/2002	GK
+650	Nélson Semedo	Wolverhampton Wanderers	11/16/1993	DF
+651	Pedro Neto	Wolverhampton Wanderers	3/9/2000	FW
+652	Connor Ronan	Wolverhampton Wanderers	3/6/1998	MF
+653	Rúben Neves	Wolverhampton Wanderers	3/13/1997	MF
+654	Matija Šarkic	Wolverhampton Wanderers	7/23/1997	GK
+655	Jackson Smith	Wolverhampton Wanderers	10/14/2001	GK
+656	Toti	Wolverhampton Wanderers	1/16/1999	DF
+657	Boubacar Traoré	Wolverhampton Wanderers	8/20/2001	MF
