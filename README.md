@@ -6,13 +6,18 @@ The data was sourced from Kaggle: https://www.kaggle.com/datasets/acothaha/epl-d
 
 ## Project Setup/Layout:
 
+### Folders:
+
 &rarr; Data
+
 Contains all the .txt and .csv files for the imports into the MySQL database.
 
 &rarr; MySQL code
+
 Contains all the MySQL scripts and the workbench file for initializing and populating the Database.
 
 &rarr; Final Dashboard Images
+
 Contains the screenshots of the Power BI pages. The Power BI page can't be published or exported without paying for an account so these screenshots are the best way to show the results of this project.
 
 ## Workflow Summary
