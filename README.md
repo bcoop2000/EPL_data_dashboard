@@ -4,6 +4,17 @@ Made a dashboard using MySQL and game data from the 2022/23 Premier League seaso
 ## Data source and conversion:
 The data was sourced from Kaggle: https://www.kaggle.com/datasets/acothaha/epl-dataset-20222023-update-every-week?select=epl_2022_2023_07_02_2023.json, provided by ABDURRAHMAN SHIDDIQ THAHA. The dataset was in JSON format, which was then converted to CSV using the online tool: https://www.convertcsv.com/json-to-csv.htm.
 
+## Project Setup/Layout:
+
+&rarr; Data
+Contains all the .txt and .csv files for the imports into the MySQL database.
+
+&rarr; MySQL code
+Contains all the MySQL scripts and the workbench file for initializing and populating the Database.
+
+&rarr; Final Dashboard Images
+Contains the screenshots of the Power BI pages. The Power BI page can't be published or exported without paying for an account so these screenshots are the best way to show the results of this project.
+
 ## Workflow Summary
 
 ### Data structure and initial grooming:
